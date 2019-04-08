@@ -1,6 +1,6 @@
 # Formula one CLI app using Kotlin and GraalVM
 
-For info on building/running check the blog post:
+For info on building/running check the [blog post](https://dev.to/viniciusccarvalho/building-a-native-cli-with-kotlin-and-graalvm-55ee) 
 
 # Sample output
 
